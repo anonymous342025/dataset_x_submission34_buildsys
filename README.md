@@ -4,6 +4,4 @@
 Data can be found under `DatasetX`.
 
 ## Reproducibility
-We provide instructions on how to reproduce the numbers and experiments in the paper. 
-1. Figure 3: to reproduce figure 3, navigate to `reproducibility/code/use_case_1` and check README.md; subsequently, simply run `figure_3.py` from that dir
-2. Figure 4: to reproduce figure 4, navigate to `reproducibility/code/use_case_1` and check README.md; subsequently, simply run `training.py` from that dir
+We provide instructions on how to reproduce the numbers and experiments in the paper. For use-case 1, navigate to [1_use_case/README.md](https://github.com/anonymous342025/dataset_x_submission34_buildsys/blob/main/reproducibility/code/1_use_case/README.md). For use-case 2, navigate to [2_use_case/README.md](https://github.com/anonymous342025/dataset_x_submission34_buildsys/blob/main/reproducibility/code/2_use_case/README.md).
