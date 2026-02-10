@@ -12,7 +12,7 @@ Data can be found under `DatasetX`.
 We provide instructions on how to reproduce the numbers and experiments in the paper. For use-case 1, navigate to [1_use_case/README.md](https://github.com/anonymous342025/dataset_x_submission34_buildsys/blob/main/reproducibility/code/1_use_case/README.md). For use-case 2, navigate to [2_use_case/README.md](https://github.com/anonymous342025/dataset_x_submission34_buildsys/blob/main/reproducibility/code/2_use_case/README.md).
 
 ## Other examples or properties for the dataset
-- Indoor & outdoor sensor modeling dynamics (visualization below for diversity of measurements for deployed sensors)
+- Indoor & outdoor sensor modeling dynamics (visualization below for diversity of measurements for deployed sensors) <br>
 <img src="https://github.com/user-attachments/assets/77b0225b-7404-47cd-a990-f713f12ac53a" width="49%"/> <img src="https://github.com/user-attachments/assets/740a1eae-6c14-4527-b894-7c47039a3cf3" width="49%"/>
-- Anomaly detection (example firmware anomalies for, in this case, CO2 measurement error)
+- Anomaly detection (example firmware anomalies for, in this case, CO2 measurement error) <br>
  <img src="https://github.com/user-attachments/assets/e1197efb-83b5-4919-9708-de1c9873485a" width="99%"/>
