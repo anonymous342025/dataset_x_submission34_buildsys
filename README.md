@@ -1,8 +1,7 @@
 # dataset_x_submission34_buildsys
-DatasetX, an IoT dataset for evaluating smart building systems in the wild. Below, we showcase a schematic of the data collection process for the dataset and hint at its aim to facilitate evaluating building systems that posses 'smart modules', i.e., solutions that try to move away from passive monitoring toward providing insight about the building or ways to actuate (influence) its state.
+DatasetX, an IoT dataset for evaluating smart building systems in the wild. Below, we showcase a schematic of the data collection process for the dataset (steps 1-2) and hint at its aim to facilitate evaluating building systems that posses 'smart modules' (steps 3-8), i.e., solutions that try to move away from passive monitoring toward providing insight about the building or ways to actuate (influence) its state.
 
 <img width="99%" alt="datasetx_pipeline" src="https://github.com/user-attachments/assets/f4e44757-c034-4e86-8f54-4a6868b36597" />
-
 
 ## Data
 Data can be found under `DatasetX`.
